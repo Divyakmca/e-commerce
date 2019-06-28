@@ -12,5 +12,5 @@ mongoose.connect('mongodb://localhost:27017/e-commerce-app', {useNewUrlParser:tr
 
   
    
-   module.exports = mongoose
+module.exports = mongoose
 
